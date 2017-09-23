@@ -1,0 +1,24 @@
+{
+  "name": "blink",
+  "version": "1.0.0",
+  "description": "EventBrite's Hackathon project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xerodragon72/Blink.git"
+  },
+  "author": "Andrew Wang, Patric He, Fengchi Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xerodragon72/Blink/issues"
+  },
+  "homepage": "https://github.com/xerodragon72/Blink#readme",
+  "dependencies": {
+    "electron": "^1.7.6",
+    "electron-reload": "^1.2.1"
+  }
+}
